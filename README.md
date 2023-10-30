@@ -2,7 +2,7 @@
 
 ** a responsive portfolio website with tailwind **
 
-![view](https://github.com/danial-barati/portfolio-second/assets/104683176/f04394e3-5e7a-41cf-89fb-55f962b1ad67)
+![view](https://github.com/danial-barati/portfolio-second/assets/104683176/24180390-ffe9-4cda-afd4-7724b171a020)
 
 - 🔗 [demo](https://danial-barati.github.io/portfolio-second/)
 
